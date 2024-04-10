@@ -18,10 +18,11 @@ Compute the inverse of matrix A using np.linalg.inv()
 Print & end the program.
 
 ## Program:
-```
+
 #Program to find the inverse of a matrix.
 #Developed by: Sarish Varshan V
 #Register Number: 212223230196
+```
 import numpy as np
 A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 B=np.linalg.inv(A)
